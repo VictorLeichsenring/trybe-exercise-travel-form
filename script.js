@@ -1,5 +1,4 @@
 const btnEnviar = document.getElementById('submit-btn');
-const btnLimpar = document.getElementById('clear-btn');
 const checkboxFotos = document.getElementById('agreement');
 
 function submit(event) {
